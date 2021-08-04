@@ -1,0 +1,2 @@
+(this["webpackJsonpweather-app"]=this["webpackJsonpweather-app"]||[]).push([[0],{9:function(e,t,n){"use strict";n.r(t);n(1);var r=n(3),a=n.n(r),c=n(0);var s=function(){return Object(c.jsxs)("div",{className:"container",children:[Object(c.jsx)("h1",{children:"Weather Application"}),Object(c.jsx)("h2",{children:"Shajapur"})]})};a.a.render(Object(c.jsx)(s,{}),document.getElementById("root"))}},[[9,1,2]]]);
+//# sourceMappingURL=main.757dd5a8.chunk.js.map
